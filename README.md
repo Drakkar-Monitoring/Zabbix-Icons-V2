@@ -17,7 +17,7 @@ Dúvidas e sugestões enviar e-mail para equipe.
 
 #### Arquivos
 
-* [Arquivos na pasta icons] (https://github.com/CCUEC/zabbix-icons-v2/tree/master/icons) 
+* [Arquivos na pasta icons](https://github.com/CCUEC/zabbix-icons-v2/tree/master/icons) 
 
 Nomenclatura dos ícones: [tipo_status_(tamanho).png]
 
@@ -58,7 +58,7 @@ Questions and suggestions send email to staff.
 
 
 #### FILES
-* [directories of icons] (https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/tree/master/icons) 
+* [directories of icons](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/tree/master/icons) 
 
 Nomenclature of icons: [type_status_(size).png]
 
