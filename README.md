@@ -27,7 +27,6 @@ Um exemplo de mapa utilizando o pacote de ícones.
 Ícones no tema Padrão de Sistema.
 ![Icones](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20White%20-%20Icons.png)
 
-
 Ícones no tema Padrão de Sistema (escuro).
 ![Ícones](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)
 
@@ -67,16 +66,16 @@ Nomenclature of icons: [type_status_(size).png]
 A example of map using the pack of icons.
 
 Icons in Default Theme of System.
-![icons]()
+![icons](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20White%20-%20Icons.png))
 
 Icons in Default Theme of System (dark).
-![icons]()
+![icons](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)
 
 #### MAPS
 General overview of icons in your diferentes sizes and status.
 
 Default Theme of System.
-![Maps 01]()
+![Maps 01](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20White%20-%20Map.png)
 
 Default Theme of System (dark).
-![Maps 02]()
+![Maps 02](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Map.png)
