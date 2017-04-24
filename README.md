@@ -35,10 +35,10 @@ Um exemplo de mapa utilizando o pacote de ícones.
 Visão geral dos ìcones em seus diferentes tamanhos e status.
 
 Tema Padrão de Sistema.
-![Maps 01]()
+![Maps 01](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20White%20-%20Map.png)
 
 Tema Padrão de Sistema (escuro).
-![Maps 02]()
+![Maps 02](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Map.png)
 
 
 ------------------------------------------------------------------------------------------------
