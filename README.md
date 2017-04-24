@@ -7,8 +7,6 @@ Segunda Coleção de Ícones para ZABBIX 3.0.X
 #### drakkar-zabbix-icons Versão 2.0
 Ícones para Zabbix 3.0.x ou outros sistemas.
 
-[![Mapa](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)]
-
 #### Equipe 
 Dúvidas e sugestões enviar e-mail para equipe.
 
@@ -30,7 +28,8 @@ Um exemplo de mapa utilizando o pacote de ícones.
 ![icons]()
 
 Ícones no tema Padrão de Sistema (escuro).
-![icons]()
+![icons]([Mapa](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)
+)
 
 #### Mapas
 Visão geral dos ìcones em seus diferentes tamanhos e status.
