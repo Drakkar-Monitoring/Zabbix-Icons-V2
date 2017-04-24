@@ -28,8 +28,7 @@ Um exemplo de mapa utilizando o pacote de ícones.
 ![icons]()
 
 Ícones no tema Padrão de Sistema (escuro).
-![icons]([Mapa](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)
-)
+[Mapa](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)
 
 #### Mapas
 Visão geral dos ìcones em seus diferentes tamanhos e status.
