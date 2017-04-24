@@ -25,10 +25,11 @@ Nomenclatura dos ícones: [tipo_status_(tamanho).png]
 Um exemplo de mapa utilizando o pacote de ícones.
 
 Ícones no tema Padrão de Sistema.
-[Icones](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20White%20-%20Icons.png)
+![Icones](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20White%20-%20Icons.png)
+
 
 Ícones no tema Padrão de Sistema (escuro).
-[Ícones](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)
+![Ícones](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V2/blob/master/Theme%20Dark%20-%20Icons.png)
 
 #### Mapas
 Visão geral dos ìcones em seus diferentes tamanhos e status.
